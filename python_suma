@@ -1,0 +1,9 @@
+# Definir los números
+a = 5
+b = 3
+
+# Sumar
+suma = a + b
+
+# Mostrar resultado
+print("La suma es:", suma)
